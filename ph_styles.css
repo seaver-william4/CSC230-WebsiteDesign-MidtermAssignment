@@ -52,6 +52,13 @@ p {
    padding-bottom: 25px;
 }
 
+address {
+   font-style: normal;
+   font-size: 0.9em;
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
 
 /* Navigation Styles */
 
