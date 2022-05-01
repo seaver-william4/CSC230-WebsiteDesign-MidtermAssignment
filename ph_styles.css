@@ -1,14 +1,14 @@
 @charset "utf-8";
 @font-face {
    font-family: Champagne;
-   src: url('cac_champagne.woff') format('woff'),
-        url('cac_champagne.ttf') format('truetype');
+   src: url(cac_champagne.woff) format('woff');
+   src: url(cac_champagne.ttf) format('truetype');
    font-family: Grunge;
-   src: url('1942.woff') format('woff'),
-        url('1942.ttf') format('truetype');
+   src: url(1942.woff) format('woff');1Q
+   src: url(1942.ttf) format('truetype');
    font-family: Dobkin;
-   src: url('DobkinPlain.woff') format('woff'),
-        url('DobkinPlain.ttf') format('truetype');
+   src: url(DobkinPlain.woff) format('woff');
+   src: url(DobkinPlain.ttf) format('truetype');
 }
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
@@ -34,6 +34,9 @@ body {
    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 }
 
+header {
+   background-color: black;
+}
 
 
 
